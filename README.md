@@ -4,6 +4,8 @@
 격자 무늬의 구조물을 만들고자 하였습니다. for문을 이용하여 블록들을 놓았습니다. 입력받은 좌표들중 각 x,y,z 성분에 대해 작은 값과 큰값을 비교하여 작은 값들부터 큰 값들로 쌓아 나갔습니다. 빨간 wool과 흰 wool을 이용하였습니다. 웨하스 스틱, 케이크 모양으로 보이기도 합니다.
 
 소스 코드 입니다.
+
+
 #include <CoalaMod.h>
 #pragma comment(lib, "CoalaMOD.lib")
 #include <stdio.h>
